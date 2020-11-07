@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b89bf863382dc7e40ff215843672d9e6",
+    "revision": "91d01a0b4fc976b029286b97d077375f",
     "url": "/quizzDataViz/index.html"
   },
   {
-    "revision": "2094d28e0dabbb89882d",
-    "url": "/quizzDataViz/static/css/main.10666ad1.chunk.css"
+    "revision": "8e6ddb19f743a2f950fc",
+    "url": "/quizzDataViz/static/css/main.ecb82e41.chunk.css"
   },
   {
     "revision": "5c135453ce171395ced9",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quizzDataViz/static/js/2.3504f2fd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2094d28e0dabbb89882d",
-    "url": "/quizzDataViz/static/js/main.1cdc7024.chunk.js"
+    "revision": "8e6ddb19f743a2f950fc",
+    "url": "/quizzDataViz/static/js/main.b165bd46.chunk.js"
   },
   {
     "revision": "d960be705909a280144e",
